@@ -1,1 +1,1 @@
-from simple_perceptron import SimplePerceptron
+__all__ =['perceptron']
